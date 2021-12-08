@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Anime
+* Games
+* Food
+
+1. Anime
+2. Games
+3. Food
